@@ -1,5 +1,5 @@
 # reddit-database
-A small database for r/gradadmissions
+A small database for r/gradadmissions. <p>
 The data was loaded into the database and it can be viewed on this website: [https://inloop.github.io/sqlite-viewer/](https://inloop.github.io/sqlite-viewer/)
 
 # Tutorials
